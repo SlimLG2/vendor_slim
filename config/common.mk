@@ -209,3 +209,4 @@ FINISHER_SCRIPT := vendor/slim/tools/finisher
 SQUISHER_SCRIPT := vendor/slim/tools/squisher
 CHANGELOG_SCRIPT := vendor/slim/tools/changelog.sh
 
+-include vendor/slim/config/sm.mk
